@@ -1,0 +1,2 @@
+# Heartbeatconnector
+Pin layout heartbeatsensor.
