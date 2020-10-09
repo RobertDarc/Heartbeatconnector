@@ -1,3 +1,3 @@
 # Heartbeatconnector
 Pin layout heartbeatsensor.
-Used in de MRI labs.
+Used in the MRI labs.
